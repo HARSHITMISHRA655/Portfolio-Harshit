@@ -42,7 +42,7 @@
 
   <SectionNumber
     right
-    number="110"
+    number="100"
     shaftClasses="bg-gray-700 dark:bg-gray-50"
     textClasses="text-gray-700 dark:text-gray-50"
   />

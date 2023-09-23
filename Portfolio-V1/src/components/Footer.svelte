@@ -6,7 +6,7 @@
       <a
         title="View my GitHub profile"
         aria-label="See my GitHub profile"
-        href="https://github.com/BobShoaun"
+        href="https://github.com/HARSHITMISHRA655"
         target="_blank"
         class="nav-text p-1"><i class="fab fa-github fa-lg" /></a
       >
@@ -15,7 +15,7 @@
       <a
         title="Connect on LinkedIn"
         aria-label="Connect on LinkedIn"
-        href="https://www.linkedin.com/in/ngbobshoaun/"
+        href="https://www.linkedin.com/in/harshit-mishra-4b530b20b/"
         target="_blank"
         class="nav-text p-1"
       >
@@ -26,7 +26,7 @@
       <a
         title="Send me an email"
         aria-label="Send me an email"
-        href="mailto:ngbobshoaun2000@gmail.com"
+        href="mailto:20bec017@iiitdwd.ac.in"
         target="_blank"
         class="nav-text p-1"
       >
@@ -34,18 +34,9 @@
       </a>
     </li>
 
-    <!-- <a href="https://www.instagram.com/n.bob.s/" target="_blank"
+    <!-- <a href="https://www.instagram.com/" target="_blank"
         ><i class="text-gray-800 dark:text-gray-50 fab fa-instagram fa-lg" /></a
       > -->
-    <li class="m-0">
-      <a
-        title="View my Codepens"
-        aria-label="View my Codepens"
-        href="https://codepen.io/bobshoaun"
-        target="_blank"
-        class="nav-text p-1"><i class="fab fa-codepen fa-lg" /></a
-      >
-    </li>
   </ul>
 
   <div class="text-center">
