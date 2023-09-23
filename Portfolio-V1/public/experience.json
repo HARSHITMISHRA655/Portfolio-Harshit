@@ -1,0 +1,45 @@
+[
+  {
+    "name": "AICTE",
+    "logo": "/images/AICTE.png",
+    "background": "bg-white",
+    "position": "Machine Learning Intern",
+    "start": "June 2023",
+    "end": "Present",
+    "highlight": "text-red-400",
+    "points": [
+      "Employed K-means clustering to analyze collected data, successfully generating 7 clusters, aligning with the theoretical basis of 3 doshas and validating the accuracy of the approach."
+      ,"Collaborated closely with the app development team to devise a novel method of capturing PPG signals via the back camera, enabling real-time heart rate analysis for predicting the percentage of tridosha within an individual."
+      ,"Currently working on speech analysis, pioneering a technique to ascertain vocal qualities such as creakiness, harshness, and smoothness, with the goal of predicting tridosha distribution in real time."    ]
+  },
+  {
+    "name": "Suraksha One",
+    "logo": "/images/SurakshaOne.png",
+    "background": "moving-gradient-2",
+    "blend": "multiply",
+    "position": "Full Stack Developer Intern",
+    "start": "June 2023",
+    "end": "Auguest 2023",
+    "highlight": "text-indigo-400",
+    "points": [
+      "Suraksha One is a startup in health industry which is addressing the need for immediate financial support during medical emergencies for individuals who are uninsured, have policies without cashless treatment services, or face delays in insurance claim approvals."
+    ,"Participated in code reviews, and proposed improved coding conventions resulting in an 80% increase in codebase quality."
+    ,"Used React, Redux, Node.js, Express, and MongoDB."
+    ]
+  },
+
+  {
+    "name": "IKS",
+    "logo": "/images/IKS.png",
+    "background": "bg-gray-700",
+    "position": "Machine Learning Intern",
+    "start": "July 2022",
+    "end": "Sep 2022",
+    "highlight": "text-red-400",
+    "points": [
+      "Worked with a cross-functional team in a research environment."
+      ,"Developed a Machine Learning model which gives a person's personality traits and psychology using palm features such as palm size, palm lines, etc."
+      ,"Used Python, Machine learning, Deep learning."
+    ]
+  }
+]
