@@ -3,7 +3,7 @@ const resume = {
   title: " -Final year Student",
   phoneNumber: "+91 7424821651",
   website: {
-    url: "https://",
+    url: "https://portfolio-harshit-phi.vercel.app/",
     label: "My portfolio website",
   },
   email: {
