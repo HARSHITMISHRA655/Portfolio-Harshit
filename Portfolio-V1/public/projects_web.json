@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "Quzi - Quiz Learning Game",
-		"image": "/images/Quzi_Image.png",
+		"image": "/images/quziImage.png",
 		"collaborators": "by Me",
 		"description": "Quzi is an interactive and engaging quiz learning game designed to make learning fun and effective. It provides a platform for users to take quizzes on various topics, test their knowledge, and improve their skills in an enjoyable way.",
 		"technologies": ["react", "node.js", "express", "mongodb", "tailwindcss"],
@@ -31,7 +31,7 @@
 	},
 	{
 		"name": "CollabHub",
-		"image": "/images/collabhub.webp",
+		"image": "/images/Collabhub.png",
 		"collaborators": "by terminal-titans team",
 		"description": "Developed a web-based platform called ”CollabHub” to address the challenge of finding project partners with similar interests and skills, enabling developers to collaborate and contribute to meaningful projects more efficiently and effectively.",
 		"technologies": ["react", "node.js", "express", "mongodb", "tailwindcss"],
