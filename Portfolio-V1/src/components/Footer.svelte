@@ -43,7 +43,7 @@
     <a
       data-aos="fade-up"
       class="nav-text text-gray-700 dark:text-gray-50"
-      href="https://github.com/BobShoaun/Portfolio-V2"
+      href="https://www.linkedin.com/in/harshit-mishra-4b530b20b/"
       target="_blank"
     >
       Designed & Built by Harshit &copy; <time>2023</time>

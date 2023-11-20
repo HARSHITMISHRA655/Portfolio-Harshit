@@ -10,14 +10,44 @@
 		"year": 2023
 	},
 	{
+		"name": "TokenMart",
+		"image": "/images/tokenMartImage.png",
+		"collaborators": "by Boat-Go-Ahead team",
+		"description": "Tokenizing the whole process of rewards and decision making, our tokens, powered by smart contracts, is set to change how ecommerce works. We give customers Brand Tokens, Loyalty Tokens, and special perks that create strong and lasting connections with businesses.",
+		"technologies": ["react", "node.js", "express", "mongodb", "tailwindcss"],
+		"website": "https://hack-cbs-6-0-eta.vercel.app/",
+		"github": "https://github.com/HARSHITMISHRA655/hackCBS_6.0",
+		"year": 2023
+	},
+	{
+		"name": "Quzi - Quiz Learning Game",
+		"image": "/images/Quzi_Image.png",
+		"collaborators": "by Me",
+		"description": "Quzi is an interactive and engaging quiz learning game designed to make learning fun and effective. It provides a platform for users to take quizzes on various topics, test their knowledge, and improve their skills in an enjoyable way.",
+		"technologies": ["react", "node.js", "express", "mongodb", "tailwindcss"],
+		"website": "https://quzi-harshitmishra655.vercel.app/",
+		"github": "https://github.com/HARSHITMISHRA655/Quzi/",
+		"year": 2023
+	},
+	{
 		"name": "CollabHub",
 		"image": "/images/collabhub.webp",
 		"collaborators": "by terminal-titans team",
 		"description": "Developed a web-based platform called ”CollabHub” to address the challenge of finding project partners with similar interests and skills, enabling developers to collaborate and contribute to meaningful projects more efficiently and effectively.",
 		"technologies": ["react", "node.js", "express", "mongodb", "tailwindcss"],
-		"website": "https://co-hub.vercel.app/",
+		"website": "",
 		"github": "https://github.com/Terminal-Titans",
 		"year": 2023
+	},
+	{
+		"name": "Election",
+		"image": "/images/electionImage.png",
+		"collaborators": "by me",
+		"description": "Build a web3-based election project involves leveraging blockchain technology and decentralized applications (DApps) to create a transparent, secure, and tamper-resistant election system",
+		"technologies": ["react", "solidity", "tailwindcss"],
+		"website": "",
+		"github": "https://github.com/HARSHITMISHRA655/Election",
+		"year": 2022
 	}
 	
 ]

@@ -144,7 +144,7 @@
 
       <!-- CONTENT SECTION -->
 
-      <article class="content flex flex-col justify-start gap-10">
+      <article class="content flex flex-col justify-start gap-4">
         <div>
           <h2
             class={`text-${primary} bg-${light} w-full border-${primary} pl-4 py-1 border-l-4 font-semibold text-xl mb-2`}

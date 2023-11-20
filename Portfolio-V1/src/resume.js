@@ -107,21 +107,38 @@ const resume = {
       ],
     },
     {
-      name: "CollabHub",
-      type: "Personal project",
-      demo:"https://co-hub.vercel.app/",
+      name: "TokenMart",
+      type: "Team project",
+      demo:"https://hack-cbs-6-0-eta.vercel.app/",
       points: [
-        "Developed a web-based platform called ”CollabHub” to address the challenge of finding project partners with similar interests and skills, enabling developers to collaborate and contribute to meaningful projects more efficiently and effectively.",
-        "Utilized ReactJS for frontend, NodeJS and ExpressJS for backend, and MongoDB for the database to create a user-friendly interface that allows users to create a profile, search for projects based on their interests, and connect with other users.",
+        "Tokenizing the whole process of rewards and decision making, our tokens, powered by smart contracts, is set to change how ecommerce works. We give customers Brand Tokens, Loyalty Tokens, and special perks that create strong and lasting connections with businesses.",
+        "We make it easy for users, offer exclusive benefits, time-sensitive rewards, and can handle lots of users.",
       ],
     },
     // {
-    //   name: "Course Checker",
+    //   name: "Quzi",
     //   type: "Personal project",
+    //   demo:"https://quzi-harshitmishra655.vercel.app/",
     //   points: [
-    //     "Aids in course planning for upcoming semester by dynamically generating a visual timetable given a selection of courses.",
-    //     "Highly customizable in terms of colors, additional info, and timestamps",
-    //     "Developed with C# using the Unity Engine, built as a WebGL frame embedded into a website made with HTML + CSS.",
+    //     "Quzi is an interactive and engaging quiz learning game designed to make learning fun and effective. It provides a platform for users to take quizzes on various topics, test their knowledge, and improve their skills in an enjoyable way.",
+    //   ],
+    // },
+    // {
+    //   name: "CollabHub",
+    //   type: "Personal project",
+    //   demo:"https://co-hub.vercel.app/",
+    //   points: [
+    //     "Developed a web-based platform called ”CollabHub” to address the challenge of finding project partners with similar interests and skills, enabling developers to collaborate and contribute to meaningful projects more efficiently and effectively.",
+    //     "Utilized ReactJS for frontend, NodeJS and ExpressJS for backend, and MongoDB for the database to create a user-friendly interface that allows users to create a profile, search for projects based on their interests, and connect with other users.",
+    //   ],
+    // },
+    // {
+    //   name: "Election",
+    //   type: "Personal project",
+    //   demo:"",
+    //   points: [
+    //     "Engage urban and young voters to participate in elections, so that they can be actively involved in the democratic process .",
+    //     "Build a web3-based election project involves leveraging blockchain technology and decentralized applications (DApps) to create a transparent, secure, and tamper-resistant election system",
     //   ],
     // },
     // {
